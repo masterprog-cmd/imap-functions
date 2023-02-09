@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "repository": {
-    "url": "https://example.com/your-username/my-new-project",
+    "url": "https://github.com/masterprog-cmd/imap-functions",
     "type": "git"
   },
   "keywords": [
